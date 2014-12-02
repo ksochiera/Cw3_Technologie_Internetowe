@@ -1,0 +1,84 @@
+
+p{ margin-top:0;
+	margin-left:10px;
+	padding:0,0,0,0;
+	color:#BEA015;
+	font-family:Georgia;
+	}
+div{
+	display:block;}
+h2{margin-left:10px;
+color:#E5E5E5;
+	font-family: "Trebuchet MS";}
+h3{
+	color:#5b5b5b;
+	margin-left:10px;
+	font-family: "Trebuchet MS";}
+.footer{display: inline;
+	background-color:white;
+	border-radius: 25px;
+	position:relative;
+	float:left;
+	}
+.header{
+	background-color: #3d3d51;
+	height:100px;
+	display: inline;
+	width:100%;
+	}
+.content{
+	width:26%;
+	height:390px;
+	background-color:#F4DE76;
+	float:left;
+	overflow:auto;
+	overflow-x:hidden}
+#map {
+	/* position: absolute; */
+	height:440px;
+	width:74%;
+	top:0;
+	left:0;
+	float:right;
+
+	}
+#map_osm{
+	/* position: absolute; */
+	height:440px;
+	width:74%;
+	top:0;
+	left:0;
+	float:right;
+
+	}
+
+.welcome{
+	width:26%;
+	height:150px;
+	background-color: #BEA015;
+	float: left;
+	color:#E5E5E5;
+	font-family: "Trebuchet MS";}
+.logo{
+	width:74%;
+	height:150px;
+	background-image: url(toscana.jpg);
+	/* zoom:4; */
+	float:right;
+	display:inline;
+	}
+.button_right{
+
+}
+
+.button_left{
+}
+.buttons{width:25%; height:100px; background-color:#F4DE76}
+
+.red{width:242px; 
+	height: 40px; 
+	background-color: #8E7810;
+	margin-left:100px;
+	}
+.blue{width:242px; height: 40px; background-color: #8E7810}
+#mark{}
